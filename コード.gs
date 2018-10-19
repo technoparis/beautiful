@@ -1,3 +1,4 @@
 function myFunction() {
-  Logger.log("hello!");
+  var message = "hello!"
+  Logger.log(message);
 }
